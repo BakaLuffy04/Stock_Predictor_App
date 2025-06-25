@@ -98,5 +98,3 @@ project-root/
 
 Made by [@SparshJindal](https://github.com/BakaLuffy04)
 Let me know if you use this or build on top of it!
-
-```
