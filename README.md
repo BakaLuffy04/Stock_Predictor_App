@@ -60,7 +60,7 @@ project-root/
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/BakaLuffy04/Stock_Predictor_App
    cd stock_predictor_app/
    ```
 
